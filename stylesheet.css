@@ -1,0 +1,29 @@
+<style>
+
+  
+  b, h1{
+  text-shadow: 1px 1px 1px blue;
+}
+
+p {
+  background-color: green;
+  color: black;
+}
+
+li,h1{
+	color: black;
+}
+h2,h3{
+	color: indigo
+}
+
+h4,h5{
+    color: blue
+}
+
+h6{
+	color:black
+}
+
+
+</style>
